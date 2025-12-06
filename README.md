@@ -1,6 +1,4 @@
 - 👋 Hey, I'm Dylan Subramanian (<b>@dylsub</b>) 
-- 👀 I’m interested in <b>full stack web development, software development, video game creation, and computational programming</b>.
-- 🌱 I’m currently practicing <b>JavaScript, HTML, CSS, C#, Java, and ReactJS</b>.
 - 👷‍♂️ I’m looking to collaborate on any unique ideas that you might need help with!
 - 📫 How to reach me <b>dylansubramanian@gmail.com</b>
 - 💻 You can visit my personal portfolio <b><a href="https://dylsub.me">here</a></b>
